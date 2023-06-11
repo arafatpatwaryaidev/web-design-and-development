@@ -1,3 +1,3 @@
 # web-design-and-development
 Simple portfolio website
-website: https://dimitrapaskob.github.io/web-design-and-development/#
+website: https://dimitrafarabi.github.io/web-design-and-development/#
